@@ -6,4 +6,4 @@ In the future I plan on adding BLE capabilities to use the controller on my phon
 
 In this repository you'll find some steps in my journey, and maybe some new ideas for your personnal projects!
 
-Special thanks to my great friend Rohit Tantiya who's helped me a lot with correcting and printing my designs for the housing.
+Special thanks to my great friend Rohit Tantiya (RolandThsive on GH) who's helped me a lot with correcting and printing my designs for the housing.
